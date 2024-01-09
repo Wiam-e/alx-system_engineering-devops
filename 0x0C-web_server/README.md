@@ -12,4 +12,4 @@ DNS Record Types
 A
 CNAME
 TXT
-MX
+MX  	
